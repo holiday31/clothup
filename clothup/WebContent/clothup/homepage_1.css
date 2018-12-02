@@ -1,0 +1,31 @@
+h1{
+  text-align: center;
+}
+.hover1{
+  float: left;
+  margin-left: 8%;
+}
+input{
+  background-color: pink;
+  font-size: 13pt;
+  margin-left: 80%;
+  text-align: center;
+}
+a:visited{
+  color: black;
+}
+.left{
+  width: 90px;
+  margin-top: 30px;
+}
+.right{
+  float: right;
+  margin-right: 0px;
+  margin-top: -80px;
+}
+footer{
+  text-align: center;
+}
+.copy{
+  font-size: 5pt;
+}
